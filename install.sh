@@ -89,6 +89,7 @@ close_firewall() {
 install_v2-ui() {
     systemctl stop v2-ui
     cd /usr/local/
+    echo '在这停顿'
     tar zxvf v2-ui-linux.tar.gz
     rm v2-ui-linux.tar.gz -f
     cd v2-ui
