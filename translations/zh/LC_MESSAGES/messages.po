@@ -307,6 +307,10 @@ msgstr "其它"
 msgid "tutorial"
 msgstr "教程"
 
+#: templates/v2ray/tutorial.html:30 templates/v2ray/tutorial.html
+msgid "adduser"
+msgstr "添加用户"
+
 #: templates/v2ray/common_sider.html:40 templates/v2ray/common_sider.html:92
 #: templates/v2ray/donate.html:27
 msgid "donate"
